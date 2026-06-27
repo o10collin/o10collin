@@ -1,11 +1,11 @@
-### /whoami
+### ~/whoami.txt
 16 y/o software engineer and (hopefully) a future comp sci student<br>
 i like minimalist & monochrome design
 
-### /skills
+### ~/skills.txt
 python, javascript, html, css, batch
 
-### /setup
+### ~/setup.txt
 macbook air m4 (midnight)<br>
 samsung odyssey g5<br>
 dierya dk63 (to be upgraded)<br>
