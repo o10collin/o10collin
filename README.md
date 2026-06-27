@@ -5,8 +5,8 @@
 python, javascript, html, css
 
 ### setup
-macbook air m4 (midnight)
-samsung odyssey g5
-dierya dk63
-msi clutch gm11
+macbook air m4 (midnight)<br>
+samsung odyssey g5<br>
+dierya dk63<br>
+msi clutch gm11<br>
 (currently upgrading periphirals)
