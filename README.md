@@ -1,5 +1,5 @@
 ### - whoami
-16 y/o software engineer and (hopefully) a future comp sci student<br>
+16 y/o software engineer and (hopefully) a comp sci student in the future<br>
 i like minimalist & monochrome design
 
 ### - skills
