@@ -4,7 +4,31 @@
  (,-.`._,'(       |\`-/|    
      `-.-' \ )-`( , o o) 
            `-    \`_`"'-
-``` 
+```
+
+```
+collin@macbook-air ~ % neofetch
+
+                    'c.          collin@macbook-air 
+                 ,xNMM.          ------------------------------------
+               .OMMMMo           Name: Collin R.
+               OMMM0,            Age: 16 years
+     .;loddo:' loolloddol;.      Dev since: 2020
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Location: Lower Saxony, Germany
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Languages: 4 (Python, JS, HTML, CSS) 
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Libraries: Flask, Requests, Tailwind
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Device: Macbook Air M4 
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Peripherals: Dierya DK63, MSI Clutch GM11
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.    
+    kMMMMMMMMMMMMMMMMMMMMMMd     
+     ;KMMMMMMMWXXWMMMMMMMk.      
+       .cooc,.    .,coo:.        
+
+collin@macbook-air ~ % 
+```
 
 ### - whoami
 16 y/o software engineer and (hopefully) a comp sci student in the future<br>
