@@ -1,10 +1,11 @@
-
+<center>
 ``` 
  _._     _,-'""`-._       
 (,-.`._,'(       |\`-/|  
     `-.-' \ )-`( , o o) 
           `-    \`_`"'-
 ``` 
+</center>
 
 ### - whoami
 16 y/o software engineer and (hopefully) a comp sci student in the future<br>
