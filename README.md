@@ -20,11 +20,11 @@ collin@macbook-air ~ % neofetch
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Device: Macbook Air M4 
 :MMMMMMMMMMMMMMMMMMMMMMMM:       Monitor: Samsung Odyssey G5
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      Peripherals: Dierya DK63, MSI Clutch GM11
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Code Editors: Visual Studio Code, JetBrains
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Code Editors: VIM, VSCode, JetBrains
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Favourite Fonts: Inter, JetBrains Mono
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Style: Minimalist, Monochrome
-    kMMMMMMMMMMMMMMMMMMMMMMd     
-     ;KMMMMMMMWXXWMMMMMMMk.      
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Design Style: Minimalist, Monochrome
+    kMMMMMMMMMMMMMMMMMMMMMMd     Domains: collin.ovh, o10.me
+     ;KMMMMMMMWXXWMMMMMMMk.      I dont know what else to add
        .cooc,.    .,coo:.        
 
 collin@macbook-air ~ % 
