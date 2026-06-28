@@ -1,3 +1,8 @@
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
+
 ### - whoami
 16 y/o software engineer and (hopefully) a comp sci student in the future<br>
 i like minimalist & monochrome design
