@@ -18,11 +18,11 @@ collin@macbook-air ~ % neofetch
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Languages: 4 (Python, JS, HTML, CSS) 
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Libraries: Flask, Requests, Tailwind
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Device: Macbook Air M4 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Peripherals: Dierya DK63, MSI Clutch GM11
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.    
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Monitor: Samsung Odyssey G5
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Peripherals: Dierya DK63, MSI Clutch GM11
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Code Editors: Visual Studio Code, JetBrains
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Favourite Fonts: Inter, JetBrains Mono
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Style: Minimalist, Monochrome
     kMMMMMMMMMMMMMMMMMMMMMMd     
      ;KMMMMMMMWXXWMMMMMMMk.      
        .cooc,.    .,coo:.        
