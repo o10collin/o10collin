@@ -3,7 +3,7 @@
 i like minimalist & monochrome design
 
 ### - skills
-python, javascript, html, css, batch
+python, javascript, html, css
 
 ### - setup
 macbook air m4 (midnight)<br>
