@@ -24,7 +24,7 @@ collin@macbook-air ~ % neofetch
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Favourite Fonts: Inter, JetBrains Mono
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Design Style: Minimalist, Monochrome
     kMMMMMMMMMMMMMMMMMMMMMMd     Domains: collin.ovh, o10.me
-     ;KMMMMMMMWXXWMMMMMMMk.      I dont know what else to add
+     ;KMMMMMMMWXXWMMMMMMMk.      
        .cooc,.    .,coo:.        
 
 collin@macbook-air ~ % 
